@@ -1,7 +1,7 @@
 ### Dash Cytoscape 
-The BTE results obtained using BTE are visualized in Dash Cytoscape. Here is the documentation: https://dash.plotly.com/cytoscape
+The results obtained using BTE are visualized in Dash Cytoscape. Here is the documentation for visualization: https://dash.plotly.com/cytoscape
 
-Run the interactive dashboard using PyCharm or any other integrated development environment (IDE)
+We recommend running the interactive cytoscape dashboard using PyCharm or any other integrated development environment. 
 
 ### Data 
 Data folder includes the style sheet for Dash Cytoscape. 
